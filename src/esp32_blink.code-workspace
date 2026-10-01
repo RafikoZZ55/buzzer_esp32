@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../esp32_blink"
+		},
+		{
+			"name": "brathing_led",
+			"path": "../../brathing_led"
+		},
+		{
+			"name": "hgggggg",
+			"path": "../../hgggggg"
+		},
+		{
+			"name": "gg",
+			"path": "../../gg"
+		},
+		{
+			"name": "buzzer_esp32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
